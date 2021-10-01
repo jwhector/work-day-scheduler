@@ -11,3 +11,7 @@ To use the web app, enter a task in any time block colored area and save it to l
 # Links and Screenshot
 
 ![Screenshot of web work day scheduler application.](./assets/scheduler.png)
+
+GitHub Pages: https://jwhector.github.io/work-day-scheduler/
+
+GitHub Repo: https://github.com/jwhector/work-day-scheduler
